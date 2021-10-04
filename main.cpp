@@ -3,6 +3,7 @@
  **/
 
 #include "factorial.h"
+#include "factorial.cpp"
 #include <cassert>
 #include <iostream>
 
